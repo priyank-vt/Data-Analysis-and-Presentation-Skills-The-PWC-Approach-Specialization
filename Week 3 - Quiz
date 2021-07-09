@@ -1,0 +1,33 @@
+1. What type of analysis can be used to segment a population of consumers into market groups?
+Ans: Cluster Analysis
+
+2. What type of analysis can be used to graph decisions and their possible consequences including chance event outcomes, resources costs and utility?
+Ans: Decision tree analysis
+
+3. What type of analysis can be used to analyze large number of dependent and independent variables, identifying the core set that will help gain meaningful insight?
+Ans: Factor Analysis
+
+4. What type of analysis is a statistical process for estimating relationships between a dependent variable and one or more independent variables?
+Ans: Regression Analysis
+
+5. What are some of the benefits named for using Excel in a business context?
+Ans: All of the above
+
+6. SAS has advantages for both technical and non-technical users.  What are they?
+Ans: Non-technical users can interact with the point-and-click interface while technical users can perform more complex data management 
+
+7. What is one of the reasons that R is a leading statistical data package?
+Ans: It allows the import of data from multiple sources and multiple formats
+
+8. You are working at a startup company that wants to embed analytics into their product.  What tool would allow you to do this?
+Excel, SAS, Qlikview all are wrong
+Ans: Python
+
+9. You have a client that needs to demonstrate that its past, present and future workforce plans were fit for purpose. Its data is in different formats, in varying degrees of accuracy and stored in multiple systems across the organization.   What are your next steps to help your client quickly and easily access and understand all of this data?
+Ans: Consolidate the data and create a visualization
+
+10. You have a client that has been spending months collecting and analyzing product data and is communicating the findings via basic spreadsheets and sets of powerpoint slides. The data set had become so large that these traditional approaches were not allowing users to interact and use the data at the required level of detail.  What tool can connect volumes of data and visualize the data in real time?
+Ans: Qlikview
+
+11. A client is suffering a much higher rate of employee turnover than normal within its sector, including losing a significant amount of key talent. The direct cost of this (recruitment costs and lost revenue) is affecting the company’s immediate profitability. This loss of talent was a cause of long-term concern in realizing the company’s growth strategy.  What two types of analysis would you perform to test a range of hypotheses to identify the most common drivers behind employees leaving the company?
+Ans: Factor analysis and regression analysis
